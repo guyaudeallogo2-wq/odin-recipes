@@ -1,2 +1,1 @@
-# odin-recipes
-A short project for a recipe page
+This is a short project about recipe
